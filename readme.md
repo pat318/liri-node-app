@@ -1,13 +1,3 @@
-This time you'll need to include screenshots, a GIF, and/or a video showing us that you have the app working with no bugs. You can include these screenshots/GIFs or a link to a video in a README.md file.
-
-
-Include screenshots (or a GIF/Video) of the typical user flow of your application. Make sure to include the use of Spotify, Bands in Town, and OMDB.
-Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
-Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
-
-
-If you haven't written a markdown file yet, click here for a rundown, or just take a look at the raw file of these instructions.
-
 This is my awesome LIRI node project. LIRI is an acronymn for Language Interpretation and Recognition Interface and is a version of a Command Line Interface. This means that it has been set up to take in a command given by the user and render the appropriate information. Specifically, my LIRI app is programmed to search for information about concerts, songs, or movies specific to the search information given by the user. To demonstrate how it works let's run the searches. 
 
 1. In the first search the user looks for concert information regarding the rap artist Lecrae.
